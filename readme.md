@@ -1,4 +1,4 @@
 # Mission Europa
-Ist ein kleiner Konsolen basierter side scroll shooter gemacht mit python.
+Is a little console based side scroller shooter made with python.
 
-Zum Starten wird Main.py ausgeführt.
+To start you have to open the file main.py
